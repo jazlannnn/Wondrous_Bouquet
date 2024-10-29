@@ -25,7 +25,7 @@ User-Friendly Interface: Designed an intuitive web interface using CSS and JavaS
 - Home Page
 
 ![screencapture-wondrous-bouquet-csc264-test-about-php-2024-10-30-00_11_19](https://github.com/user-attachments/assets/f3756ff8-f83c-48a6-9eed-8a71333e58c2)
--About Us Page
+- About Us Page
 
 ![screencapture-wondrous-bouquet-csc264-test-register-php-2024-10-30-00_11_43](https://github.com/user-attachments/assets/1900f227-f60a-4465-993d-8dcf78b7c373)
 - Register Page
