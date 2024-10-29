@@ -21,17 +21,17 @@ User-Friendly Interface: Designed an intuitive web interface using CSS and JavaS
 
 ## Screenshot of the website
 
-![screencapture-wondrous-bouquet-csc264-test-register-php-2024-10-30-00_11_43](https://github.com/user-attachments/assets/1900f227-f60a-4465-993d-8dcf78b7c373)
-- Register Page
-
-![screencapture-wondrous-bouquet-csc264-test-login-php-2024-10-30-00_11_32](https://github.com/user-attachments/assets/ba9505a2-34f8-4bbb-a8dd-c21d28037cf6)
-- Login Page
-
 ![screencapture-wondrous-bouquet-csc264-test-index-php-2024-10-30-00_10_46](https://github.com/user-attachments/assets/4ec0653f-9086-4788-8cd9-abaecf26b131)
 - Home Page
 
 ![screencapture-wondrous-bouquet-csc264-test-about-php-2024-10-30-00_11_19](https://github.com/user-attachments/assets/f3756ff8-f83c-48a6-9eed-8a71333e58c2)
 -About Us Page
+
+![screencapture-wondrous-bouquet-csc264-test-register-php-2024-10-30-00_11_43](https://github.com/user-attachments/assets/1900f227-f60a-4465-993d-8dcf78b7c373)
+- Register Page
+
+![screencapture-wondrous-bouquet-csc264-test-login-php-2024-10-30-00_11_32](https://github.com/user-attachments/assets/ba9505a2-34f8-4bbb-a8dd-c21d28037cf6)
+- Login Page
 
 ![screencapture-wondrous-bouquet-csc264-test-products-php-2024-10-30-00_15_34](https://github.com/user-attachments/assets/c338090a-88db-47c9-8bbc-799987d097aa)
 - Products Page
