@@ -18,3 +18,5 @@ Order Management: Streamlined the order processing workflow, tracking orders fro
 Database Integration: Utilized XAMPP and phpMyAdmin for effective management and hosting of the MySQL database.
 
 User-Friendly Interface: Designed an intuitive web interface using CSS and JavaScript for an engaging shopping experience.
+
+## Screenshot of the website
